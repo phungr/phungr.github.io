@@ -1,0 +1,58 @@
+.container {
+    justify-content: center;
+	margin: auto;
+	
+}
+
+div {
+    align-content: center;
+    text-align: center;
+
+}
+.topleft {
+	width: 750px;
+	height: 500px;
+	border: 1px solid rgba(0, 0, 255, 0);
+	margin: 8px;
+	float: left;
+}
+.topright {
+	width: 750px;
+	height: 500px;
+	border: 1px solid rgba(0, 0, 255, 0);
+	margin: 8px;
+
+}
+.bottomleft {
+	width: 750px;
+	height: 500px;
+	border: 1px solid rgba(0, 0, 255, 0);
+	margin: 8px;
+}
+.bottomright {
+	width: 750px;
+	height: 500px;
+	border: 1px solid rgba(0, 0, 255, 0);
+	margin: 8px;
+
+}
+.left {
+	width: 750px;
+	height: 500px;
+	border: 1px solid rgba(0, 0, 255, 0);
+	margin: 8px;
+}
+.right {
+	width: 750px;
+	height: 500px;
+	border: 1px solid rgba(0, 0, 255, 0);
+	margin: 8px;
+
+}
+.smallbox {
+	width: 1000px;
+	height: 200px;
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.137);
+	border-color: black;
+}
